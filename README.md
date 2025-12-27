@@ -128,4 +128,3 @@ Project ini dibuat sebagai bagian dari tugas analisis data dan pengembangan dash
 ---
 
 
-Tinggal bilang mau versi yang mana 😄
